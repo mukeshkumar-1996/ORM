@@ -38,7 +38,7 @@ admin.site.register(product)
 ```
 # OUTPUT
 
-c:\Users\acer\Desktop\web_vs_code\Screenshot (16).png
+![alt text](<../Screenshot (16).png>)
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
